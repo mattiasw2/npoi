@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NPOI.OpenXml4Net.Core", "op
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NPOI.Core", "main\NPOI.Core.csproj", "{427F7C1B-DC40-46C8-99FC-035C591FA2D8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadXlsx", "mattias1\ReadXlsx.csproj", "{E82E1FB6-E243-49F8-A773-1AF653790ECD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{427F7C1B-DC40-46C8-99FC-035C591FA2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{427F7C1B-DC40-46C8-99FC-035C591FA2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{427F7C1B-DC40-46C8-99FC-035C591FA2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82E1FB6-E243-49F8-A773-1AF653790ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82E1FB6-E243-49F8-A773-1AF653790ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82E1FB6-E243-49F8-A773-1AF653790ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82E1FB6-E243-49F8-A773-1AF653790ECD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
